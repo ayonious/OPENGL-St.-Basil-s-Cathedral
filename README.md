@@ -1,7 +1,7 @@
 # OPENGL example: about creating St. Basil's Cathedral
 
 Here is how it looks like: https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral
-https://github.com/ayonious/OPENGL-St.-Basil-s-Cathedral/blob/master/screenshot.png
+![alt text](https://github.com/ayonious/OPENGL-St.-Basil-s-Cathedral/blob/master/screenshot.png)
 
 # Running instruction
 
