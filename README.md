@@ -1,7 +1,12 @@
 # OPENGL example: about creating St. Basil's Cathedral
 
-Here is how it looks like: https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral
+## How my design looks like
 <img src="https://github.com/ayonious/OPENGL-St.-Basil-s-Cathedral/blob/master/screenshot.png" width="300">
+
+## How the real St. Basil's Cathedral looks like
+https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral
+
+
 
 # Running instruction
 
